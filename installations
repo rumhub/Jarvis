@@ -1,3 +1,4 @@
 SpeechRecognition: pip install SpeechRecognition
 pyttsx3: pip install pyttsx3
 PyAudio: pip install PyAudio
+Pywhatkit: pip install pywhatkit
