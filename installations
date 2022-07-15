@@ -1,1 +1,3 @@
 SpeechRecognition: pip install SpeechRecognition
+pyttsx3: pip install pyttsx3
+
